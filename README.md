@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-vscode)
 
 **Author:** Brandon Perry  
-**Email:** bdperry09@gmail.com
+**Email:** perrybrandon1911@gmail.com
 
 ---
 
